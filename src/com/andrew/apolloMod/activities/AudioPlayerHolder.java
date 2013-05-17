@@ -49,6 +49,7 @@ import static com.andrew.apolloMod.Constants.THEME_ITEM_BACKGROUND;
 /**
  * @author Andrew Neal
  * @Note This is the "holder" for the @TracksFragment(queue) and @AudioPlayerFragment
+ * @note Make a Chinese note
  */
 public class AudioPlayerHolder extends Activity implements ServiceConnection {
 
